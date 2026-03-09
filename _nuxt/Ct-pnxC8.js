@@ -1,0 +1,1 @@
+import{_ as s,i as r}from"./BIqcU8pM.js";import{Q as n,C as o}from"./BP3At9kK.js";const t=s({},[["render",function(s,t){const a=r;return o(),n(a,{name:"radix-icons:triangle-down",class:"text-16px"})}]]);export{t as S};

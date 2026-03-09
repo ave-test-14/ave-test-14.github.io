@@ -1,0 +1,1 @@
+import{L as o}from"./RHOYbhmd.js";import{w as a,b as e}from"./BP3At9kK.js";function s(s,i){const n=o(),t=e(null),l=i||3e5;a(n,o=>{if("hidden"===o&&(t.value=Date.now()),"visible"===o){Date.now()-(t.value||0)>l&&s()}})}export{s as u};

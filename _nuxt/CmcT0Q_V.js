@@ -1,0 +1,1 @@
+import{c as t}from"./BIqcU8pM.js";function e(e){const{$api:o}=t();return o("/v1api/v3/stats/rugpullrate",{method:"get",query:{token_id:e}})}function o(e){const{$api:o}=t();return o("/v2api/token_info/v1/token/dev",{method:"get",query:e})}export{e as _,o as a};
