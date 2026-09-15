@@ -1,0 +1,1 @@
+import{au as a}from"./CHIcypm-.js";var o=a("/icon-default.png");export{o as t};

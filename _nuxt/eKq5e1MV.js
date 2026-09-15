@@ -1,0 +1,1 @@
+import{au as a}from"./CHIcypm-.js";var o=a("/download/frame-1.svg");export{o as t};
