@@ -1,0 +1,1 @@
+import{d as a,l as e}from"./DsTLLhsa.js";import{k as r}from"./6LbxYvOj.js";import{n as s}from"./BlNUT5Yu2.js";import{t as f}from"./DZ8S0lCE.js";var m=r({__name:"index",setup:r=>(f({middleware:e(()=>a(s("0x2260fac5e5542a773aa44fbcfedf7c193bc2c599","eth"),{replace:!0}))}),()=>{})});export{m as default};
